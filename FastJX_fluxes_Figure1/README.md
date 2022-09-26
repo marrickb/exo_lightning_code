@@ -1,1 +1,1 @@
-Notebook shows how to convert both BT-Settl and MUSCLES spectra into Fast-JX wavelength bins. Additional files in folder are needed for conversion and files generated in the process.
+Notebook shows how to convert both BT-Settl and MUSCLES spectra into Fast-JX wavelength bins. Additional files in folder are needed for conversion/plotting (FJX_spec_exochem_new.txt, solar-p05nm-UCI.dat) and files generated in the process (mdwrf3000_g5-p05_2100nm.dat, mdwrf3000_muscles_p05_2100nm.dat, pcb_1au_musc.dat, FJX_spec_pcb_musc_1au.txt).
